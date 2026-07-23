@@ -8,12 +8,25 @@ According to the British Heart Foundation (2021), over 40,000 out of hospital ca
 
 This report uses open spatial data to investigate the accessibility of defibrillators (AED) to deprivation levels using the study area of Salford, Greater Manchester. Accessibility is interpreted as either within reachable distance (200m) or freely available regardless of day, time or restrictions.
 
-Data References: 
+#**Data References:**
+
+**AED Data**
+Defibrillator data. (no date). [online] British Heart Foundation. Available at: https://www.bhf.org.uk/defibdata [Accessed 23 July 2026].
+
+(This data set provides location, availability and access type data of all defibrillators with a Guardian registered on The Circuit. It does not have personal details of the Guardian.
+
+The data has been provided in good faith by the registered Guardians, but may be inaccurate, incomplete or out of date. The file is updated on the first working day of every month. It is being shared here to support relevant organisations, such as Local Authorities or charities, in making decisions on where to place more defibrillators. It may also be used by academics or researchers in the field of out-of-hospital cardiac arrest and the community response.)
+
+Statistics.gov.uk. (2026). ONSPD Online latest Postcode Centroids. [online] Available at: https://geoportal.statistics.gov.uk/datasets/84787e80aca04bb388caad29f89946b0_0/explore?location=53.486210%2c-2.229295%2c10 [Accessed 23 July 2026].
+(This file contains the digital vector centroids for the National Statistics Postcode Directory in the UK as at May 2026.The centroids are of every live and terminated postcode in the United Kingdom.Contains both Ordnance Survey and ONS Intellectual Property Rights.&nbsp;&nbsp;REST URL of Feature Access Service – https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/ONSPD_Online_latest_Postcode_Centroids/FeatureServer&nbsp;REST URL of WFS Server – https://dservices1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/services/ONSPD_Online_latest_Postcode_Centroids/WFSServer?request=getcapabilities&amp;service=wfs&nbsp;REST URL of MapServer – 
+https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/ONSPD_Online_latest_Postcode_Centroids/MapServer)
 
 
-Data Dictionary:
 
-		LSOA21CD	- Lower Super Output Area Code
+
+#**Data Dictionary:**
+
+	LSOA21CD	- Lower Super Output Area Code
     LSOA21NM	- Lower Super Output Area Name
     LAD24CD	 - Local Authority Code
     LAD24NM - Local Authority Name
